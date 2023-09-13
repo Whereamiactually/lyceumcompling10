@@ -9,6 +9,6 @@
 
 | День | Тема | Задание | Дедлайн | Материалы |
 |---------|---------|---------|---------|---------|
-| 11.09.23 | Введение в компьютерную лингвистику. Знакомство с Python: базовые функции и типы данных. Набор библиотек Natasha (введение).|         |         |[Тетрадка](https://colab.research.google.com/drive/1n5gN2wmVP3j9YEhNoQb-_vBSes4r83qf?usp=sharing)  [Natasha](https://github.com/natasha/razdel)|
+| 11.09.23 | Введение в компьютерную лингвистику. Знакомство с Python: базовые функции и типы данных. Набор библиотек Natasha (razdel).|         |         |[Тетрадка](https://colab.research.google.com/drive/1n5gN2wmVP3j9YEhNoQb-_vBSes4r83qf?usp=sharing)  [Natasha](https://github.com/natasha/razdel)|
 |      |      |         |         |         |
 |      |      |         |         |         |
