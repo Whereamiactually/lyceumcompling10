@@ -9,6 +9,6 @@
 
 | День | Тема | Задание | Дедлайн | Материалы |
 |---------|---------|---------|---------|---------|
-| 11.09.23 | Введение в компьютерную лингвистику. Знакомство с Python: базовые функции и типы данных. Набор библиотек Natasha (Razdel).|         |         | [Тетрадка](https://colab.research.google.com/drive/1n5gN2wmVP3j9YEhNoQb-_vBSes4r83qf?usp=sharing)    [Natasha (Razdel)](https://github.com/natasha/razdel) |
-| 18.09.23 | Razdel. Регулярные выражения. | Задания в конце тетрадки. Регулярные выражения и Razdel. | 27.09.2023 | [Тетрадка](https://colab.research.google.com/drive/10Hrqg1kvoKPr294-rFF3xibY_oBSnrMu?usp=sharing)    [Рег. выражения](https://res.cloudinary.com/dyd911kmh/image/upload/v1665049611/Marketing/Blog/Regular_Expressions_Cheat_Sheet.pdf) |
+| 11.09.23 | Введение в компьютерную лингвистику. Знакомство с Python: базовые функции и типы данных. Набор библиотек Natasha (Razdel).|         |         | [Тетрадка, ](https://colab.research.google.com/drive/1n5gN2wmVP3j9YEhNoQb-_vBSes4r83qf?usp=sharing) [Natasha (Razdel)](https://github.com/natasha/razdel) |
+| 18.09.23 | Razdel. Регулярные выражения. | Задания в конце тетрадки. Регулярные выражения и Razdel. | 27.09.2023 | [Тетрадка, ](https://colab.research.google.com/drive/10Hrqg1kvoKPr294-rFF3xibY_oBSnrMu?usp=sharing) [рег. выражения](https://res.cloudinary.com/dyd911kmh/image/upload/v1665049611/Marketing/Blog/Regular_Expressions_Cheat_Sheet.pdf) |
 |      |      |         |         |         |
