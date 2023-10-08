@@ -11,7 +11,7 @@
 | 18.09.23 | Razdel. Регулярные выражения. | Задания в конце тетрадки (загружать [сюда](https://forms.gle/tD7x6WUuesk6jSru9)). Регулярные выражения и Razdel. | 08.10.2023 23:59 | [Natasha и регулярные выражения, ](https://colab.research.google.com/drive/10Hrqg1kvoKPr294-rFF3xibY_oBSnrMu?usp=sharing) [регулярные выражения](https://res.cloudinary.com/dyd911kmh/image/upload/v1665049611/Marketing/Blog/Regular_Expressions_Cheat_Sheet.pdf) |
 | 25.09.23 | CSV. JSON. Pandas и НКРЯ. |         |         | [CSV, JSON, pandas и НКРЯ](https://colab.research.google.com/drive/1ktgU7TeBsSW4wr8vBykGlaxg2-kHPKpi?usp=sharing) |
 | 02.10.23 | НКРЯ, pandas (продолжение). Natasha - морфологический и синтаксический анализ. ||| [Морф. и синт. анализатор (Natasha)](https://colab.research.google.com/drive/14haQFHvhGoIhwwZlRu_veSlWdh5XOzkB?usp=sharing) |
-| 09.10.23 | Разбор домашней работы по рег. выражениям. Распознавание именованных сущностей (NER). Лемматизация, стемминг. | [Домашка №1, ]() [NER, лемматизация, стемминг](https://colab.research.google.com/drive/1MDGkMpoRLIc0nl6gBEHupltD9p56wHkC?usp=sharing) |||
+| 09.10.23 | Разбор домашней работы по рег. выражениям. Распознавание именованных сущностей (NER). Лемматизация, стемминг. ||| Домашка №1, [NER, лемматизация, стемминг](https://colab.research.google.com/drive/1MDGkMpoRLIc0nl6gBEHupltD9p56wHkC?usp=sharing) |
 | 16.10.23 | Векторное представление слов. ||||
 | 23.10.23 |||||
 | 06.11.23 | Контрольная работа. ||||
