@@ -23,7 +23,7 @@
 
 На вкладке со статистикой можно посмотреть на статистику по авторам, сфере функционирования, типу текста и пр.
 
-На вкладке с n-граммами можно смотреть словосочетания разной длины, в которых встретилось искомое слово.
+На вкладке с n-граммами можно посмотреть словосочетания разной длины, в которых встретилось искомое слово.
 
 3. [Лексико-грамматической поиск](https://ruscorpora.ru/results?search=Ct4BEroBCrcBChMKCWRpc2FtYm1vZBIGCgRtYWluChcKB2Rpc3Rtb2QSDAoKd2l0aF96ZXJvcxKGAQofCgNsZXgSGAoW0LvQuNC90LPQstC40YHRgtC40LrQsAoKCgRmb3JtEgIKAAodCgVncmFtbRIUChIoUykgJiAoYWNjKSAmIChzZykKCQoDc2VtEgIKAAoVCgdzZW0tbW9kEgoKCHNlbXxzZW14CgkKA3N5bhICCgAKCwoFZmxhZ3MSAgoAKhgKCAgAEAoYMiAKEAUgAEAFagQwLjk1eAAyAggBOgEBMAE=)
 
