@@ -27,7 +27,7 @@
 
 3. [Лексико-грамматической поиск](https://ruscorpora.ru/results?search=Ct4BEroBCrcBChMKCWRpc2FtYm1vZBIGCgRtYWluChcKB2Rpc3Rtb2QSDAoKd2l0aF96ZXJvcxKGAQofCgNsZXgSGAoW0LvQuNC90LPQstC40YHRgtC40LrQsAoKCgRmb3JtEgIKAAodCgVncmFtbRIUChIoUykgJiAoYWNjKSAmIChzZykKCQoDc2VtEgIKAAoVCgdzZW0tbW9kEgoKCHNlbXxzZW14CgkKA3N5bhICCgAKCwoFZmxhZ3MSAgoAKhgKCAgAEAoYMiAKEAUgAEAFagQwLjk1eAAyAggBOgEBMAE=)
 
-В лексико-грамматическом поиске необязательно искать по какому-то слову. Можно просто задать грамматические признаки требуемого слова/требуемых слов, и тогда поиск найдет словоформы любых лексем, подходящих под заданные признаки.
+В лексико-грамматическом поиске необязательно искать по какому-то слову. Можно просто задать требуемые грамматические признаки, и тогда поиск найдет словоформы любых лексем, подходящих под заданные признаки.
 Вот [пример](https://ruscorpora.ru/results?search=CsgBEqQBCqEBChMKCWRpc2FtYm1vZBIGCgRtYWluChcKB2Rpc3Rtb2QSDAoKd2l0aF96ZXJvcxJxCgkKA2xleBICCgAKCgoEZm9ybRICCgAKKQoFZ3JhbW0SIAoeKFYpICYgKGluZGljKSAmICh0cmFuKSAmIChpcGYpCgkKA3NlbRICCgAKFQoHc2VtLW1vZBIKCghzZW18c2VteAoLCgVmbGFncxICCgAqGAoICAAQChgyIAoQBSAAQAVqBDAuOTV4ADICCAE6AQEwAQ==) выдачи по запросу "глагол + изъявительное наклонение + переходный + несовершенный вид".
 
 Также с помощью лексико-грамматического поиска можно искать словосочетания.
