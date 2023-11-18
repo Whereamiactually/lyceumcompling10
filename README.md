@@ -15,7 +15,7 @@
 | 16.10.23 | Разбор домашней работы по рег. выражениям. Векторное представление слов. ||| [домашка №1](https://colab.research.google.com/drive/1qL-HHD00pRqLjzttDR9kn582kNCNlINF?usp=sharing), [NLTK, векторное представление слов](https://colab.research.google.com/drive/1uvTd8MrILhEKCLpk7qntH90OnYbZ-NPb?usp=sharing) |
 | 23.10.23 | Векторное представление слов. НКРЯ. ||| [векторное представление слова (часть 2)](https://colab.research.google.com/drive/1wvfKT1lOW_vQxIXIEeq2FUj1MO9XtvRK?usp=sharing), [НКРЯ](https://github.com/Whereamiactually/lyceumcompling10/blob/main/Russian%20National%20Corpus.md) |
 | 06.11.23 | Контрольная работа. | Задания контрольной работы появятся здесь в 12:00 03.11.23. Выполнить и отправить их можно будет до 12:00 07.11.23, таким образом вы сможете спокойно подумать над ними и выполнить их в своем темпе. | 12:00 07.11.23. ||
-| 13.11.23 | Морфологические анализаторы: MyStem, PyMorphy, SpaCy. Разбор контрольной работы. Разбор домашней работы по морф. обработке текста. |         | 20.11.23 23:59 | [морфологические анализаторы](https://colab.research.google.com/drive/1IXWn9lgQEWpA6cJ3XoyEzzeXcC9vCT_L?usp=sharing) |
+| 13.11.23 | Морфологические анализаторы: MyStem, PyMorphy, SpaCy. Разбор контрольной работы. Разбор домашней работы по морф. обработке текста. |         |         | [морфологические анализаторы](https://colab.research.google.com/drive/1IXWn9lgQEWpA6cJ3XoyEzzeXcC9vCT_L?usp=sharing) |
 | 20.11.23 | Визуализация текстовых данных. ||||
 | 27.11.23 | Стилометрия. ||||
 | 04.12.23 |||||
