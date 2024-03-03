@@ -29,7 +29,7 @@
 | 12.02.24 | Работа с супергеройским датасетом. Решение заданий на занятии (в прикреплённой тетрадке). ||| [тетрадка с разбором](https://colab.research.google.com/drive/1Z9Jh6DorXB7V2tRBONEbgQNsV5H5tQsQ?usp=sharing) |
 | 19.02.24 | Dependency parsing (SpaCy). ||| [dependency parsing](https://colab.research.google.com/drive/16ISn4TtByn7CWk6V1M43ZZP7DjT0i-xV?usp=sharing) |
 | 26.02.24 | Pandas и построение диаграмм. ||| [pandas и диаграммы](https://colab.research.google.com/drive/1JAf2eLMvcOIN8do3AWc5vZue7UY8Kjxn?usp=sharing) |
-| 04.03.24 | TF-IDF, Doc2Vec, повторение Word2Vec. ||| [Word2Vec и Doc2Vec](https://colab.research.google.com/drive/1EFSK5xiLWt7tXInnCTS7M2l-6AdN-ESh?usp=sharing) |
+| 04.03.24 | Doc2Vec, повторение Word2Vec. ||| [Word2Vec и Doc2Vec](https://colab.research.google.com/drive/1EFSK5xiLWt7tXInnCTS7M2l-6AdN-ESh?usp=sharing) |
 ||||||
 ||||||
 ||||||
