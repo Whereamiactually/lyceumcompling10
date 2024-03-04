@@ -30,7 +30,7 @@
 | 19.02.24 | Dependency parsing (SpaCy). ||| [dependency parsing](https://colab.research.google.com/drive/16ISn4TtByn7CWk6V1M43ZZP7DjT0i-xV?usp=sharing) |
 | 26.02.24 | Pandas и построение диаграмм. ||| [pandas и диаграммы](https://colab.research.google.com/drive/1JAf2eLMvcOIN8do3AWc5vZue7UY8Kjxn?usp=sharing) |
 | 04.03.24 | Повторение Word2Vec, построение модели на собственных данных, визуализация. ||| [Word2Vec](https://colab.research.google.com/drive/1EFSK5xiLWt7tXInnCTS7M2l-6AdN-ESh?usp=sharing) |
-| 11.03.24 | Doc2Vec, TF-IDF. | [Doc2Vec (в конце тетрадки)](https://colab.research.google.com/drive/1EFSK5xiLWt7tXInnCTS7M2l-6AdN-ESh?usp=sharing), TF-IDF |||
+| 11.03.24 | Doc2Vec, TF-IDF. ||| [Doc2Vec (в конце тетрадки)](https://colab.research.google.com/drive/1EFSK5xiLWt7tXInnCTS7M2l-6AdN-ESh?usp=sharing), TF-IDF |
 ||||||
 ||||||
 ||||||
