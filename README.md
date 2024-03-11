@@ -31,6 +31,6 @@
 | 26.02.24 | Pandas и построение диаграмм. ||| [pandas и диаграммы](https://colab.research.google.com/drive/1JAf2eLMvcOIN8do3AWc5vZue7UY8Kjxn?usp=sharing) |
 | 04.03.24 | Повторение Word2Vec, построение модели на собственных данных, визуализация. ||| [Word2Vec](https://colab.research.google.com/drive/1EFSK5xiLWt7tXInnCTS7M2l-6AdN-ESh?usp=sharing) |
 | 11.03.24 | Doc2Vec, TF-IDF. ||| [Doc2Vec (в конце тетрадки)](https://colab.research.google.com/drive/1EFSK5xiLWt7tXInnCTS7M2l-6AdN-ESh?usp=sharing), [TF-IDF](https://colab.research.google.com/drive/1IWAwEtYzar63G-rK5DPs0UvH02wTELPh?usp=sharing) |
-||||||
+| 18.03.24 | Продолжение TF-IDF. ||| [TF-IDF](https://colab.research.google.com/drive/1IWAwEtYzar63G-rK5DPs0UvH02wTELPh?usp=sharing) |
 ||||||
 ||||||
