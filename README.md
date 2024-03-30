@@ -33,4 +33,4 @@
 | 11.03.24 | Doc2Vec, TF-IDF. ||| [Doc2Vec (в конце тетрадки)](https://colab.research.google.com/drive/1EFSK5xiLWt7tXInnCTS7M2l-6AdN-ESh?usp=sharing), [TF-IDF](https://colab.research.google.com/drive/1IWAwEtYzar63G-rK5DPs0UvH02wTELPh?usp=sharing) |
 | 18.03.24 | Продолжение TF-IDF. ||| [TF-IDF](https://colab.research.google.com/drive/1IWAwEtYzar63G-rK5DPs0UvH02wTELPh?usp=sharing) |
 | 01.04.24 | Краулинг. Подготовка к контрольной работе. ||| [краулинг](https://colab.research.google.com/drive/121CeK7sm2StYH6Alxu5BMD_2afC9cXeg?usp=sharing) |
-| 08.04.24 | Контрольная работа: краулинг, pandas, Doc2Vec, TF-IDF.||| [задание](https://colab.research.google.com/drive/1P8q0DHS8GkI6x-lbB1EASHy2aymvKXMv?usp=sharing) |
+| 08.04.24 | Контрольная работа: краулинг, pandas, TF-IDF.||| [задание](https://colab.research.google.com/drive/1P8q0DHS8GkI6x-lbB1EASHy2aymvKXMv?usp=sharing) |
