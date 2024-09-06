@@ -40,7 +40,7 @@
 | 13.05.24 | WordNet. FrameNet. ||||
 | 20.05.24 | Проект по векторизации текста. ||| [ссылка на задание](https://colab.research.google.com/drive/1m4zdZka93wck3u9qSkvyhdHQRXW8tcS1?usp=sharing) |
 |||Новый учебный год!|||
-| 06.09.24 | Повторение: морфологические анализаторы, распознавание именованных сущностей, pandas, краулинг. ||| [повторение](https://colab.research.google.com/drive/1y_FN4QwdDXckM1AHzd1PDa5u4FG2OJ_T?usp=sharing) |
+| 06.09.24 | Повторение: морфологические анализаторы, распознавание именованных сущностей, pandas. ||| [повторение](https://colab.research.google.com/drive/1y_FN4QwdDXckM1AHzd1PDa5u4FG2OJ_T?usp=sharing) |
 ||||||
 ||||||
 ||||||
