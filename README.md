@@ -43,4 +43,4 @@
 | 06.09.24 | Повторение: морфологические анализаторы, распознавание именованных сущностей, pandas. ||| [повторение](https://colab.research.google.com/drive/1y_FN4QwdDXckM1AHzd1PDa5u4FG2OJ_T?usp=sharing) |
 | 13.09.24 | Повторение: векторное представление слов, краулинг. ||| [повторение](https://colab.research.google.com/drive/1y_FN4QwdDXckM1AHzd1PDa5u4FG2OJ_T?usp=sharing) |
 | 20.09.24 | Нейронные сети и машинное обучение: введение. ||||
-| 27.09.24 | Наивный байесовский классификатор. ||||
+| 27.09.24 | Наивный байесовский классификатор. ||| [наивный байесовский классификатор](https://colab.research.google.com/drive/171rUUP1HOhvXHAC4lYRF1sTyzpSb3iG5?usp=sharing) |
