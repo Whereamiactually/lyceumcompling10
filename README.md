@@ -44,7 +44,7 @@
 | 13.09.24 | Повторение: векторное представление слов, краулинг. ||| [повторение](https://colab.research.google.com/drive/1y_FN4QwdDXckM1AHzd1PDa5u4FG2OJ_T?usp=sharing) |
 | 20.09.24 | Нейронные сети и машинное обучение: введение. ||||
 | 27.09.24 | Наивный байесовский классификатор. ||| [наивный байесовский классификатор](https://colab.research.google.com/drive/171rUUP1HOhvXHAC4lYRF1sTyzpSb3iG5?usp=sharing) |
-| 04.10.24 | Наивный байесовский классификатор: повторение. ||| [все классификаторы](https://colab.research.google.com/drive/1AwOdcvCOb-WA_NvLW7bfjzD1ZVbZe4gn?usp=sharing) |
+| 04.10.24 | Наивный байесовский классификатор: практика. ||| [все классификаторы](https://colab.research.google.com/drive/1AwOdcvCOb-WA_NvLW7bfjzD1ZVbZe4gn?usp=sharing) |
 | 11.10.24 | Логистическая и линейная регрессия. ||| [все классификаторы](https://colab.research.google.com/drive/1AwOdcvCOb-WA_NvLW7bfjzD1ZVbZe4gn?usp=sharing) |
 | 18.11.24 | Линейная регрессия (продолжение) и k ближайших соседей. ||| [все классификаторы (и не только)](https://colab.research.google.com/drive/1AwOdcvCOb-WA_NvLW7bfjzD1ZVbZe4gn?usp=sharing) |
 | 25.11.24 |||||
