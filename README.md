@@ -46,5 +46,6 @@
 | 27.09.24 | Наивный байесовский классификатор. ||| [наивный байесовский классификатор](https://colab.research.google.com/drive/171rUUP1HOhvXHAC4lYRF1sTyzpSb3iG5?usp=sharing) |
 | 04.10.24 | Наивный байесовский классификатор: практика. ||| [все классификаторы](https://colab.research.google.com/drive/1AwOdcvCOb-WA_NvLW7bfjzD1ZVbZe4gn?usp=sharing) |
 | 11.10.24 | Логистическая и линейная регрессия. ||| [все классификаторы](https://colab.research.google.com/drive/1AwOdcvCOb-WA_NvLW7bfjzD1ZVbZe4gn?usp=sharing) |
-| 18.11.24 | Линейная регрессия (продолжение) и k ближайших соседей. ||| [все классификаторы (и не только)](https://colab.research.google.com/drive/1AwOdcvCOb-WA_NvLW7bfjzD1ZVbZe4gn?usp=sharing) |
-| 25.11.24 |||||
+| 18.10.24 | Линейная регрессия (продолжение) и k ближайших соседей. ||| [все классификаторы (и не только)](https://colab.research.google.com/drive/1AwOdcvCOb-WA_NvLW7bfjzD1ZVbZe4gn?usp=sharing) |
+| 25.10.24 | Отменилось. :( ||||
+| 08.11.24 |  ||||
