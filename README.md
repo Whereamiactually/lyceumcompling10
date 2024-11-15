@@ -48,4 +48,5 @@
 | 11.10.24 | Логистическая и линейная регрессия. ||| [все классификаторы](https://colab.research.google.com/drive/1AwOdcvCOb-WA_NvLW7bfjzD1ZVbZe4gn?usp=sharing) |
 | 18.10.24 | Линейная регрессия (продолжение) и k ближайших соседей. ||| [все классификаторы (и не только)](https://colab.research.google.com/drive/1AwOdcvCOb-WA_NvLW7bfjzD1ZVbZe4gn?usp=sharing) |
 | 25.10.24 | Отменилось. :( ||||
-| 08.11.24 | Оптическое распознавание символов (OCR). ||| [часть 1](https://colab.research.google.com/drive/156hCld7hJGIJnA41qNwizKZUxfQkdyPP?usp=sharing), [часть 2](https://colab.research.google.com/drive/1AdQvEmzgXU7hnbObGUm45qbLdxeQDzuT?usp=sharing) |
+| 08.11.24 | Отменилось. :( ||||
+| 15.11.24 | Оптическое распознавание символов (OCR). ||| [часть 1](https://colab.research.google.com/drive/156hCld7hJGIJnA41qNwizKZUxfQkdyPP?usp=sharing), [часть 2](https://colab.research.google.com/drive/1AdQvEmzgXU7hnbObGUm45qbLdxeQDzuT?usp=sharing) |
