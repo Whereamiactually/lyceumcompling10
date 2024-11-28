@@ -51,3 +51,4 @@
 | 08.11.24 | Отменилось. :( ||||
 | 15.11.24 | Оптическое распознавание символов (OCR). ||| [часть 1](https://colab.research.google.com/drive/156hCld7hJGIJnA41qNwizKZUxfQkdyPP?usp=sharing), [часть 2](https://colab.research.google.com/drive/1AdQvEmzgXU7hnbObGUm45qbLdxeQDzuT?usp=sharing) |
 | 22.11.24 | Контрольная работа. || 24.11.24 в 23:59 ||
+| 29.11.24 | Чат-боты. Введение и простые примеры. ||| [простые чат-боты](https://colab.research.google.com/drive/1IFEQhah2RKYCL3Lt6oTKv52k9S9s858D?usp=sharing) |
